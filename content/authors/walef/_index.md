@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Possui graduação em Ciências Atuariais pela Universidade Federal de Alfenas (2019) e graduação em Interdisciplinar em Ciência e Economia pela Universidade Federal de Alfenas (2018). Possui interesse principalmente nos seguintes temas: ciências atuariais, variáveis aleatórias fuzzy, sistemas fuzzy, estatística bayesiana e estatística computacional. 
+Possui graduação em Ciências Atuariais pela Universidade Federal de Alfenas (2019) e graduação Interdisciplinar em Ciência e Economia pela Universidade Federal de Alfenas (2018). Possui interesse principalmente nos seguintes temas: ciências atuariais, variáveis aleatórias fuzzy, sistemas fuzzy, estatística bayesiana e estatística computacional. 

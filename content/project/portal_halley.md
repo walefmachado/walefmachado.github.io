@@ -16,7 +16,6 @@ image_preview = "calculadora_atuarial.png"
 tags = ["Atuária", "R", "Shiny"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://atuaria.github.io/portalhalley/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -27,3 +26,6 @@ image = ""
 caption = ""
 
 +++
+
+"https://atuaria.github.io/portalhalley/"
+
